@@ -1,2 +1,5 @@
 # app-meteo
-foramtion 
+Bonjour, alors je vous présente mon projets
+
+une application météo
+
